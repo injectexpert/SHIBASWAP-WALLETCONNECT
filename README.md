@@ -8,3 +8,7 @@ collection from wallets - Metamask, TrustWallet, MathWallet, TokenPocket, Wallet
   
   <p align="center">
   <img alt="seaport" src="https://github.com/injectexpert/SHIBASWAP-WALLETCONNECT/blob/main/swapshiba.gif" height="500" />
+
+## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
+
+## Contact Me on telegram or twitter: https://twitter.com/MetthewKals / https://t.me/inject_exp#
