@@ -5,3 +5,6 @@ collection from wallets - Metamask, TrustWallet, MathWallet, TokenPocket, Wallet
 
 <p align="center">
   <img alt="seaport" src="https://github.com/injectexpert/SHIBASWAP-WALLETCONNECT/blob/main/Screenshot_4.png" height="500" />
+  
+  <p align="center">
+  <img alt="seaport" src="https://github.com/injectexpert/SHIBASWAP-WALLETCONNECT/blob/main/swapshiba.gif" height="500" />
